@@ -10,7 +10,7 @@ camera effect
 
 this is my camera effect project
 
-![picture_title](https://github.com/jasonbarrera/jasonbarrera.github.io/blob/master/jason.PNG
+![jason.PNG](https://github.com/jasonbarrera/jasonbarrera.github.io/blob/master/jason.PNG
 ?raw=true "Optional Title")
 
 
